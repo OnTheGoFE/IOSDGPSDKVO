@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IOSDGPSDKVO'
-  s.version          = '1.27.0.100'
+  s.version          = '1.27.0.200'
   s.summary          = 'IOS SDK DIGIPRO Formatos Electrónicos (Visual Fingerprint Object)'
   s.description      = <<-DESC
 El Visual Fingerprint object framework es utilizado para la generación de formatos electrónicos.
